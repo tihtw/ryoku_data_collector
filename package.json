@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tihtw/ryoku_data_collector/issues"
   },
-  "homepage": "https://github.com/tihtw/ryoku_data_collector#readme"
+  "homepage": "https://github.com/tihtw/ryoku_data_collector#readme",
+  "dependencies": {
+    "eventsource": "^1.0.5"
+  }
 }
