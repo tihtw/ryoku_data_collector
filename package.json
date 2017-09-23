@@ -1,0 +1,19 @@
+{
+  "name": "ryokudatacollector",
+  "version": "1.0.0",
+  "description": "For collect ryoku2 data via Server Send Event and write it in local database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tihtw/ryoku_data_collector.git"
+  },
+  "author": "Taiwan Intelligent Home Corp.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tihtw/ryoku_data_collector/issues"
+  },
+  "homepage": "https://github.com/tihtw/ryoku_data_collector#readme"
+}
